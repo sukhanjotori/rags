@@ -1,0 +1,29 @@
+Who is Kia?
+Kia is King IT Automation. She is there to help answer most of the common questions. She uses Natural Language Processing (NLP) artificial intelligence that deals with the interaction between computers and humans using natural language. This means she can read, decipher, understand, and make sense of the human language in a manner that is useful.
+
+Kia Chat Bot Logo
+
+What can Kia do?
+Greet
+Always excited to help, she will greet customers with “Hiya {First Name}! Thanks for reaching out.”.
+
+Farewell
+When getting a positive response like a ‘👍’ Kia will check in to ensure she answered all questions suitably and let them know if a human is required there is one.
+
+Directions
+Kia knows every suburb in every store’s catchment and can recommend the closest store. She can understand some slang like “Sunny Coast” and legacy center names such as “Sugarland”. Once she has worked out what store is being asked about she will advise where each store is, and where the best parking is.
+
+Hours
+If Kia is asked when we close or open, or any other request for our hours, she will tell users the standard trade hours after determining the location they are looking for if it is not apparent in their initial message. However, she will not recognize public holidays or unusual closure events. So she might need some help from you.
+
+Warranties
+Kia can deal with questions about our warranties and guarantees. But she has not been trained to offer specific advice about every warranty we offer. So she will give a pretty generic response.
+
+Appointments
+Kia can deal with appointment requests. She knows we don’t take appointments and so instead encourages people to pop in store.
+
+Service Queries
+Kia can generally understand both what device the customer is talking and the repair or service that their inquiry relates to. She will give a very general ballpark starting price for most repairs and services for Phones, Tablets, PC, Mac, Drones and Consoles and encourage them to come in for an obligation free quote. She will offer specific pricing on all iPhones models between the 6 to the XS Max.
+
+How Kia Works?
+The way Kia works is based on what is called a “recipe”. She uses NLP to determine the key intents of the customer, she will know if it is a question about appointments, hours, directions, service, or farewell. Then she will combine this to other intents such as what device type and what service is required. EG Service + Mac + Battery = Mac Battery
